@@ -10,3 +10,4 @@
 - add a stopwatch or timer
 - add a highscore board
 - develop a frontend for it and deploy on vercel
+- list of 2048 variants to copy or for ideas: https://true65536.github.io/allthe2048/
