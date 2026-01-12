@@ -1,0 +1,12 @@
+# Ideas
+- align grid even when numbers have more than 1 digit
+- Use wasd alone, without needing to hit enter
+- use curses for the program to clear and update the screen instead of printing out all the history like a CLI
+- develop this in pycharm
+- add type annotations?
+- add more options than 4x4, 2x2, 10x10, etc
+- add a hard mode that makes non-ideal selections like
+- allow going higher than 2048
+- add a stopwatch or timer
+- add a highscore board
+- develop a frontend for it and deploy on vercel
